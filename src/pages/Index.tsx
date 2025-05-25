@@ -24,7 +24,7 @@ const Index = () => {
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 tracking-tight">
             Face Recognition
             <span className="block text-3xl md:text-4xl font-light text-blue-300 mt-2">
-              Powered by AI
+              Powered by TOUCH_AI
             </span>
           </h1>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto leading-relaxed">
